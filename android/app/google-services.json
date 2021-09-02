@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "800640869728",
+    "project_id": "manny-41d25",
+    "storage_bucket": "manny-41d25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800640869728:android:c82b99bda1509be7b6ea05",
+        "android_client_info": {
+          "package_name": "com.myuploadphoto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800640869728-t462oot5cds27tqlvr3kuq5tc00e3e6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoy9718RwjfxZznT6AgAWXbQeaY5C-Z_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800640869728-t462oot5cds27tqlvr3kuq5tc00e3e6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
